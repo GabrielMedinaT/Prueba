@@ -4,7 +4,7 @@
 REPO_PATH="$(pwd)"
 
 # Intervalo en segundos (60 = 1 minuto)
-INTERVAL=60
+INTERVAL=1
 
 # Mensaje del commit
 COMMIT_MESSAGE="AutoPush Gabriel: $(date '+%d-%m-%Y %H:%M:%S')"
